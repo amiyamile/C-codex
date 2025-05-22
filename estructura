@@ -1,0 +1,11 @@
+ul, ol {
+  border: 1px solid;
+  width: 50px;
+}
+
+ul, ol (selectores)
+{} (llaves)
+border (propiedades)
+1px solid (valores)
+
+propiedades a valores se separan con dos puntos y lleva siempre punto y coma al final
